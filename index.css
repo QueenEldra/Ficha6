@@ -1,0 +1,14 @@
+body {background-color: #070606;}
+.p1 {
+    @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap');
+    color: #BDBDBD;
+}
+h1 {
+    @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap');
+    color: #BDBDBD;
+}
+.button {
+    background-color: #2B892E;
+    border-radius: 12px;
+    color: #BDBDBD;
+}
